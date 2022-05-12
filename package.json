@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "autoprefixer": "10.4.6"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.1"
   }
 }
