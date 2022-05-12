@@ -13,7 +13,7 @@
 	<name>dsmovie</name>
 	<description>Project created during the Spring React week</description>
 	<properties>
-		<java.version>18</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
